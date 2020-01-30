@@ -67,6 +67,9 @@ Practice Exercise 1
 - `rmdir MyDirectory` - remove an empty directory !!WARNING!!
 - wildcards - * is especially useful - matches anything
 - `grep` - find only lines matching some particular string
+    grep ^TEXT FILE
+    grep TEXT$ FILE
+    grep ^"TEXT TEXT"$ FILE
 
 ```
 Practice Exercise 2
